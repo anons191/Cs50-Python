@@ -43,3 +43,5 @@
 # we create functions with def
 
 # scope is where a variable only exist where you define it
+
+# conditonals > >= <= == != keyword if lets you ask questions
